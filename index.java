@@ -4,5 +4,8 @@ public Class Solution{
       System.out.println("你好！")
     }
   
+    for (int i=0; i<10; i++){
+        System.out.println("Hello World")
+    }
   }
 }
